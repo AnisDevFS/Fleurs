@@ -3,7 +3,7 @@ img {
     margin-top: 10px;
 }
 
-div {
+#divflex {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
